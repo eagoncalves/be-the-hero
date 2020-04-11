@@ -15,7 +15,7 @@ module.exports = {
         city,
         uf
       });
-      return response.json({ message: id });
+      return response.json({ id: id });
     } catch (e) {
       return response.json({ message: ` There was a problem with the proccess. ${e}` })
     }
