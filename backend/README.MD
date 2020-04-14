@@ -2,6 +2,7 @@
 ## Express
 ## SQL Lite (Query build - Knex.js)
 ## Postgres
+## Celebrate (to perform validations)
 
 # How to configuration some libraries and services.
 ## npx knex init (to create an file with database configation).
